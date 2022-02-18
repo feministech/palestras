@@ -1,5 +1,5 @@
 ## 💻 **Evento: XXX**
-### 📅 Data: XX/01/2022
+### 📅 Data: XX/06/2022
 
 #### 🎤 **Palestrantes**
 
