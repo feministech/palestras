@@ -19,4 +19,4 @@
 |Paula Santana | [twitter](https://twitter.com/psanrosa13) e [linkedin](https://www.linkedin.com/in/paula-macedo-santana-dev/) | O mundo das mentorias e suas surpresas | [Link](https://github.com/feministech/palestras/blob/main/Ano%202022/04%20-%20Abril/O%20mundo%20das%20mentorias%20e%20suas%20surpresas.pdf) | [Live](https://www.twitch.tv/videos/1461190042) |
 |Monique Oliveira | [twitter](https://twitter.com/moniquelive) e [instagram](https://www.instagram.com/moniquelive.dev/) | Papo sobre vida de pessoa desenvolvedora e empreendedora | x | [Live](https://www.twitch.tv/videos/1465813087) |
 |Cami Martins | [site](https://punkdodevops.com) | Dicas de carreira para ingresso, transição e processos seletivos | x | [Live](https://www.twitch.tv/videos/1465813092) |
-|Isabelle Samways | [twitter](https://twitter.com/bellesamways) | PJotinha, vale mesmo a pena? | x | [Live](https://www.twitch.tv/videos/1465813091) |
+|Isabelle Samways | [twitter](https://twitter.com/bellesamways) | PJotinha, vale mesmo a pena? | [Link](https://speakerdeck.com/bellesamways/pjotinha-vale-mesmo-a-pena) | [Live](https://www.twitch.tv/videos/1465813091) |
